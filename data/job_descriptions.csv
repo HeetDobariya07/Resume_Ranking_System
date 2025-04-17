@@ -1,0 +1,2 @@
+job_id,job_title,job_description,required_skills,required_education,required_experience
+15f49140-a692-458d-9ec9-27e6d5453450,Machine Learning Engineer,Develop and deploy ML models for real-world applications. Collaborate with cross-functional teams to integrate models into products.,"Python,TensorFlow,PyTorch,Scikit-learn,Pandas,NumPy,SQL,Git,AWS,Docker","Bachelor’s Degree in Computer Science,Data Science,Engineering,Mathematics","2+ years in ML,1+ year with deep learning,model deployment experience"
